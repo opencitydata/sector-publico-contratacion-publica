@@ -1,3 +1,6 @@
+Este repositorio deriva del trabajo realizado en el proyecto europeo TheyBuyForyou y reemplaza al repositorio https://github.com/opencitydata/sector-publico-contrataciones-licitaciones-servicios-old, y será mejorado y adaptado al modelo de trabajo establecido en el proyecto Ciudades Abiertas, para su utilización posterior en este contexto.
+
+
 <p align="center"><img width=50% src="https://github.com/TBFY/general/blob/master/figures/tbfy-logo.png"></p>
 <p align="center"><img width=40% src="https://github.com/TBFY/ocds-ontology/blob/master/logo.png"></p>
 
